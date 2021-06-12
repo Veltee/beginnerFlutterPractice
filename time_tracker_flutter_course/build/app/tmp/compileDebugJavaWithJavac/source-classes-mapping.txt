@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+ventus/time_tracker_flutter_course/BuildConfig.java
+ ventus.time_tracker_flutter_course.BuildConfig
